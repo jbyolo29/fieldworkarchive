@@ -29,6 +29,12 @@ permalink: /weeks/week-03/
 
 之後用 Strava 記錄行走路線，與完成路線後紙上的痕跡來表示這個連結。
 
+我感覺我就是測量工具，在這個系統裡面。還有我有想到用細節去補科學性這件事情，就是科學捕捉不到的地方。
+
 ## NEXT MOVE｜下一步
 
-（待補）
+我有想到一個很像的藝術作品，就是冰島的那個藝術家的作品：《地震儀對距離的證言》（The seismographic testimony of distance），柏林–新加坡、奧克蘭–臺北、新加坡–奧克蘭，2024–2025。我想說可不可以把這種 mapping 利用在測量，那個測量的工具本身。
+
+![《地震儀對距離的證言》展場]({{ '/assets/images/w03-eliasson-room.jpg' | relative_url }})
+
+![其中一件：密密的線，中間一道垂直的重複]({{ '/assets/images/w03-eliasson-dense.jpg' | relative_url }})
