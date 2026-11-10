@@ -25,9 +25,9 @@ permalink: /weeks/week-06/
 
 ![起種完成的酸種：課堂調配完成的初生麵糊]({{ '/assets/images/w06-sourdough-started.jpg' | relative_url }})
 
-10/18 帶兩罐酸種至戶外矮牆通風觀察，並將環境中拾得的一顆松果置於罐旁作為環境對照，觀察非人有機體在同一光影空間中的靜止與微動。
+10/18 第一次帶兩罐到宿舍外的磨石子矮牆放風，在戶外檢查高度、加粉餵食。傍晚從校園撿回一顆松果，放在兩罐旁邊。
 
-![10/18 戶外放風與松果同框觀察]({{ '/assets/images/w06-sourdough-pinecone.jpg' | relative_url }})
+![10/18 兩罐第一次出門，坐在宿舍外的磨石子矮牆上]({{ '/assets/images/w06-sourdough-pinecone.jpg' | relative_url }})
 
 ## FRICTION｜摩擦
 
