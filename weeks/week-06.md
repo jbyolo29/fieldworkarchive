@@ -23,7 +23,11 @@ permalink: /weeks/week-06/
 
 我一共起種了兩罐，並在瓶身套上橡皮筋標示初始高度作為每日發酵起跑線：左邊黃色橡皮筋標記為「黃黃」，右邊紅色橡皮筋標記為「紅紅」。課後帶回室內避光處安頓，開始執行每 24 小時倒出一半、補入 10 克麵粉與 10 克水攪拌的日常照護。
 
-![起種完成的兩罐酸種：黃色橡皮筋（黃黃）與紅色橡皮筋（紅紅）]({{ '/assets/images/w06-sourdough-started.jpg' | relative_url }})
+![起種完成的酸種：課堂調配完成的初生麵糊]({{ '/assets/images/w06-sourdough-started.jpg' | relative_url }})
+
+10/18 帶兩罐酸種至戶外矮牆通風觀察，並將環境中拾得的一顆松果置於罐旁作為環境對照，觀察非人有機體在同一光影空間中的靜止與微動。
+
+![10/18 戶外放風與松果同框觀察]({{ '/assets/images/w06-sourdough-pinecone.jpg' | relative_url }})
 
 ## FRICTION｜摩擦
 
