@@ -7,16 +7,15 @@ permalink: /midterm/
 
 # Situated Field Study
 
-## Creative tool / interface / body technique / contract
+## 《偷聽的花》（The Eavesdropping Flower）
 
-個人製作一個介入場域的 creative tool、感知介面或身體方法。它要改變使用者能感知什麼、如何移動，以及如何與場域發生關係。
+> 個人製作一個介入場域的 creative tool、感知介面或身體方法。它要改變使用者能感知什麼、如何移動，以及如何與場域發生關係。
 
-形式可以包括：
-電子感測器、聲音或資料介面
-穿戴式裝置、身體延伸或限制器
-AR app、手機遊戲、定位式敘事
-無電子元件的觀察工具或操作物
-一套需要練習的 body technique、動作或感官訓練
-一組讓他人進入場域的規則、score 或遊戲機制
-personas, contracts, requests, rules or institutional procedures that cause an existing system to act differently
+* **作品形式：** 有機植物/電子混成感測裝置、即時聲學分析介面與物理形變反饋系統
+* **介入場域：** 學術研究體制中的師生會議與指導對話場域
+* **完整成果檔案：** [前往 W09 期中發表完整報告]({{ '/weeks/week-09/' | relative_url }})
 
+![《偷聽的花》現場實測展示]({{ '/assets/images/w09-flower-live.jpg' | relative_url }})
+
+### 作品核心概念
+以一朵隱蔽於會議桌中央、外表看似枯萎無害的花，作為第三方感知載體。它不記錄語音內容，而是持續量測話語間的「聲學動力學」（音調高低、遲疑停頓、搶話打斷與迎合），並將無形的制度性壓力轉化為枯枝碎裂聲響與介面上的形態凋零，讓原本由個人內化的身心壓力被實體承擔。
